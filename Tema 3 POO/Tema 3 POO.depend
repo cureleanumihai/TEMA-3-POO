@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1578511683 source:c:\users\user\documents\c facultate\tema 3 poo\main.cpp
+	<iostream>
+	<vector>
+	<typeinfo>
+	<Masini.h>
+	<Coupe.h>
+	<Cabrio.h>
+	<HotHatch.h>
+	<Supersport.h>
+	<Expozitie.h>
+
+1578508417 source:c:\users\user\documents\c facultate\tema 3 poo\src\masini.cpp
+	"Masini.h"
+
+1578410461 c:\users\user\documents\c facultate\tema 3 poo\include\masini.h
+	<iostream>
+
+1578515084 c:\users\user\documents\c facultate\tema 3 poo\include\coupe.h
+	<Masini.h>
+
+1578515029 source:c:\users\user\documents\c facultate\tema 3 poo\src\coupe.cpp
+	"Coupe.h"
+	<typeinfo>
+
+1578508838 source:c:\users\user\documents\c facultate\tema 3 poo\src\hothatch.cpp
+	"HotHatch.h"
+
+1578435782 c:\users\user\documents\c facultate\tema 3 poo\include\hothatch.h
+	<Masini.h>
+
+1578508838 source:c:\users\user\documents\c facultate\tema 3 poo\src\cabrio.cpp
+	"Cabrio.h"
+
+1578435782 c:\users\user\documents\c facultate\tema 3 poo\include\cabrio.h
+	<Masini.h>
+
+1578508443 source:c:\users\user\documents\c facultate\tema 3 poo\src\supersport.cpp
+	"Supersport.h"
+
+1578507745 c:\users\user\documents\c facultate\tema 3 poo\include\supersport.h
+	<Masini.h>
+
+1578441699 source:c:\users\user\documents\c facultate\tema 3 poo\src\expozitie.cpp
+	"Expozitie.h"
+
+1578514472 c:\users\user\documents\c facultate\tema 3 poo\include\expozitie.h
+	<vector>
+	<utility>
+	<iostream>
+	<Masini.h>
+	<Coupe.h>
+	<Cabrio.h>
+	<HotHatch.h>
+	<Supersport.h>
+
